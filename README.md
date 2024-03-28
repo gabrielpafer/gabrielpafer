@@ -18,6 +18,8 @@ Analista Tecnologia | Junior
 
 ##
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpafer&theme=dracula&hide_border=false&&layout=compact"/>
+<div style="width: 200px;">
+<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpafer&langs_count=8" alt="Top Langs" />
+</a>
 </div>
